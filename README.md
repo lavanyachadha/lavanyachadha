@@ -67,5 +67,5 @@ Google UX Design Professional Certificate · NPTEL User Interface Design · Micr
 ---
 
 <p align="center">
-  Want to work together? <a href="mailto:lavanyachadha14@gmail.com"><b>lavanyachadhaa@gmail.com</b></a>
+  Want to work together? <a href="mailto:lavanyachadhaa@gmail.com"><b>lavanyachadhaa@gmail.com</b></a>
 </p>
